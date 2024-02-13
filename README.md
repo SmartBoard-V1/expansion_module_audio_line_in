@@ -17,8 +17,21 @@ This repository hosts the design and implementation of the CS5343 Audio Input Ex
 - **Digital Output**: I2S interface for straightforward integration with microcontrollers and DSPs.
 - **Compact Size**: Small footprint for easy inclusion in various designs.
 
-![Schematic](media/sch.png)
-![Board Design](media/brd.png)
+## Design Documentation
+
+Below are the key design documents for the CS5343 Audio Input Expansion Module, including schematic diagrams and board designs. These documents provide detailed insights into the module's architecture and layout, facilitating understanding and modifications.
+
+### Schematic Diagram
+![Schematic Diagram](media/sch.png)
+*This is the schematic diagram of the CS5343 Audio Input Expansion Module, showcasing the connection and configuration of the CS5343 ADC and other components.*
+
+### Board Design - 2D
+![Board Design - 2D](media/brd.png)
+*The 2D board design illustrates the physical layout of the module's components on the PCB, aiding in the assembly and troubleshooting processes.*
+
+### Board Design - 3D Visualization
+![Board Design - 3D Visualization](media/brd_3D.png)
+*This 3D visualization offers a comprehensive view of the module, providing a clearer understanding of its physical characteristics and design considerations.*
 
 ## Contributions and Feedback
 Contributions to this project are welcome. If you have suggestions for improvement or have developed additional features, please fork the repository, make your changes, and submit a pull request. For any questions or issues, please open an issue in the GitHub repository.
