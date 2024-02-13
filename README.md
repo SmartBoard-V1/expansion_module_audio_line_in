@@ -1,4 +1,4 @@
-# expansion_module_audio_line_in
+# # Expansion Module: Audio Line In with CS5343
 
 ![Hardware](https://img.shields.io/badge/Hardware-PCB-red)
 ![Design](https://img.shields.io/badge/Design-Schematic-blue)
